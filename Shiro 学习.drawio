@@ -1,89 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T08:11:30.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7qgHGyWu1bjaxUOV--eB" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T12:12:59.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hPuBoMgutIXSdPNl5L1A" version="24.6.5" type="github">
   <diagram name="第 1 页" id="Gfysoyu4KD15PqfEOMr1">
     <mxGraphModel dx="1221" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="151" width="314" height="230" as="geometry" />
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="24" y="151" width="316" height="233" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-2" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-2" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="24" y="261" width="314" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-3" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-3" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="176" y="151" width="10" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyf3aO6bY6qEZeCbPNUT-4" target="yyf3aO6bY6qEZeCbPNUT-8">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyf3aO6bY6qEZeCbPNUT-4" target="yyf3aO6bY6qEZeCbPNUT-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-4" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-4" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="57" y="197" width="94" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyf3aO6bY6qEZeCbPNUT-5" target="yyf3aO6bY6qEZeCbPNUT-10">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyf3aO6bY6qEZeCbPNUT-5" target="yyf3aO6bY6qEZeCbPNUT-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-5" value="Authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-5" value="Authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="217" y="197" width="88" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyf3aO6bY6qEZeCbPNUT-6" target="yyf3aO6bY6qEZeCbPNUT-14">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyf3aO6bY6qEZeCbPNUT-6" target="yyf3aO6bY6qEZeCbPNUT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-6" value="Session Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-6" value="Session Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="37" y="318" width="134" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyf3aO6bY6qEZeCbPNUT-7" target="yyf3aO6bY6qEZeCbPNUT-16">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyf3aO6bY6qEZeCbPNUT-7" target="yyf3aO6bY6qEZeCbPNUT-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-7" value="Cryptography" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-7" value="Cryptography" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="219" y="318" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-8" value="身份认证，即登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-8" value="身份认证，即登录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="49.63" y="104" width="108.75" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-10" value="授权，即权限控制" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-10" value="授权，即权限控制" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="201" y="105" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-14" value="Session 管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-14" value="Session 管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="44" y="407" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-16" value="加密操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-16" value="加密操作" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="407" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0;" parent="1" vertex="1">
           <mxGeometry x="363" y="158" width="12" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-19" value="核心功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-19" value="核心功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="385" y="253" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-20" value="Web Support" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-20" value="Web Support" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="486" y="103" width="93" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-21" value="Caching" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-21" value="Caching" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="493.25" y="171" width="78.5" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-22" value="Concurrency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-22" value="Concurrency" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="483.75" y="234" width="97.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-23" value="Run As" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-23" value="Run As" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="491.5" y="309" width="82" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-24" value="Remember Me" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-24" value="Remember Me" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490.25" y="377" width="84.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="640" y="114" width="20" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-26" value="支持的功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-26" value="支持的功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="253" width="78" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-27" value="Shiro 功能描述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-27" value="Shiro 功能描述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="46" y="37" width="97" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-28" value="Shiro 架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-28" value="Shiro 架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="54" y="482" width="73" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yyf3aO6bY6qEZeCbPNUT-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;在 Shiro 中，有三个核心概念，分别是 Subject，SecurityManager，Realm&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Subject：指的是用户的登录信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SecurityManager：管理所有的 Subject&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Realm：进行权限管理&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="26.75" y="539" width="545" height="120" as="geometry" />
+        <mxCell id="yyf3aO6bY6qEZeCbPNUT-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;在 Shiro 中，有三个核心概念，分别是 Subject，SecurityManager，Realm&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Subject：指的是用户的登录信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SecurityManager：管理所有的 Subject&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Realm：进行权限管理&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="530" width="545" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-1" value="Shiro 请求流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="46" y="702" width="97" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-3" target="35jwIWCtqFnOQBrGKEjd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-3" value="Web 请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="761" width="95" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-4" target="35jwIWCtqFnOQBrGKEjd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-4" value="Spring Shiro Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-9" target="35jwIWCtqFnOQBrGKEjd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-9" value="在 Spring Shiro Filter 中，首先会初始化上下文。&lt;div&gt;如果 cookie 中有 rememberMe 相关信息，会解析成用户信息。&lt;div&gt;然后会调用 createSubject() 方法去创建一个 Subject，这个 Subject 是与当前线程绑定的。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13" y="848" width="496" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-11" target="35jwIWCtqFnOQBrGKEjd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-11" value="自定义 JwtFilter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-13" target="35jwIWCtqFnOQBrGKEjd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-13" value="判断是否有 token 相关信息，有的话解析成用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="698" width="294" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-15" target="35jwIWCtqFnOQBrGKEjd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35jwIWCtqFnOQBrGKEjd-15" target="35jwIWCtqFnOQBrGKEjd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-15" value="Interceptors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-17" value="如果请求的 Handler 上面有标注，&lt;div&gt;比如说：RequiresRoles、RequiresPermissions 相关注解，&lt;/div&gt;&lt;div&gt;就会进入到对应的拦截器，&lt;/div&gt;&lt;div&gt;在拦截器中会调用每个 Realm 的获取权限的方法，并且判断是否具有相应的权限&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="937" width="443" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-21" value="Handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="698" y="754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35jwIWCtqFnOQBrGKEjd-23" value="如果是登录请求的话，会调用 subject 的 login() 方法进行登录操作，在这个过程中会调用每个 Realm 的认证方法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="108" y="1031" width="612" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
